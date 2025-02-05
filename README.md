@@ -1,4 +1,4 @@
-# Romanian Sort 🧑‍💻✨
+# Romanian Sort 🧑‍💻💳🤑
 
 ## What's this? 🤔
 Romanian Sort is a **badass** sorting algorithm that steals your problems and sorts them the Romanian way. It's not your average sort – it doesn’t wait for everything to be perfect before it fixes it. It’s quick, it’s dirty, and it gets the job done. We’re taking elements that are out of order, **stealing** them, sorting them on the fly, and then slapping everything back together like it’s no big deal.
