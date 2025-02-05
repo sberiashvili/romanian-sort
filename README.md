@@ -33,7 +33,7 @@ romanianSort(unsortedArray).then(sorted => {
   console.log(sorted);  // [1, 2, 3, 4, 5, 9]
 });
 ```
-Boom. Sorted. 💥
+**Boom. Sorted. 💥**
 
 ## How It Works 🤓
 - **Partition:** Walks through the array and “steals” anything that’s out of order.
