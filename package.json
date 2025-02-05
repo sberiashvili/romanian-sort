@@ -1,0 +1,13 @@
+{
+  "name": "romanian-sort",
+  "version": "1.0.0",
+  "description": "A highly efficient sorting algorithm that reaches your fallen wallet faster than a romanian!",
+  "main": "src/romanianSort.js",
+  "scripts": {
+    "test": "echo \"No tests yet!\""
+  },
+  "author": "Saba Beriashvili",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
