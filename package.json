@@ -1,6 +1,6 @@
 {
   "name": "romanian-sort",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A highly efficient sorting algorithm that reaches your fallen wallet faster than a romanian!",
   "main": "src/romanianSort.js",
   "scripts": {
