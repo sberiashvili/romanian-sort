@@ -13,10 +13,17 @@ Romanian Sort is a **badass** sorting algorithm that steals your problems and so
 - **Async Sorting:** Quicksort that works in the background.
 - **Merge in Place:** We don’t waste space, we just keep merging like a champ.
 
-## How to Use It 🔥
-1. **Install it** (just kidding, it’s on GitHub, no npm install needed).
-2. Copy-paste that bad boy into your project.
-3. Call `romanianSort(elements)` and watch it work its magic.
+1. **Install it**:
+   Run the following command to install it from npm:
+   ```bash
+   npm install romanian-sort
+   ```
+2. **Import it**:
+   In your JS file add:
+   ```javascript
+   const romanianSort = require('romanian-sort');
+   ```
+3. **Call** `romanianSort(elements)` and watch it work its magic.
 
 ### Example:
 
