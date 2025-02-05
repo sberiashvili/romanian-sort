@@ -14,12 +14,10 @@ Romanian Sort is a **badass** sorting algorithm that steals your problems and so
 - **Merge in Place:** We don’t waste space, we just keep merging like a champ.
 
 1. **Install it**:
-   Run the following command to install it from npm:
    ```bash
    npm install romanian-sort
    ```
 2. **Import it**:
-   In your JS file add:
    ```javascript
    const romanianSort = require('romanian-sort');
    ```
